@@ -1,3 +1,7 @@
+# _Resume Analyzer_
+
+Analyze the resume document score based on job description. Extract the words using OCR, create word embeddings or tokens and check the similarity with job description embeddings.
+
 _**PDF to Image Conversion:**_ The PDF resume is converted to images using pdf2image library.
 
 _**Text Extraction from Images:**_ The text is extracted from the images using easyocr library.
